@@ -1,0 +1,32 @@
+.NavBar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 5px 60px;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 6px -1px,
+    rgba(0, 0, 0, 0.06) 0px 2px 4px -1px;
+}
+
+.LOGO {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: rgb(224, 134, 8);
+}
+
+.LOGO span {
+  font-weight: bold;
+  padding-left: 5px;
+  /* color: #443c3c; */
+  font-size: 20px;
+}
+
+.bagde {
+  background-color: rgb(224, 134, 8);
+  color: white;
+  padding: 5px 2px;
+}
+
+.NavBar p {
+  font-size: 12px;
+}

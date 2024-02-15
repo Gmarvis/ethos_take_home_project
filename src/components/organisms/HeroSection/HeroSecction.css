@@ -1,0 +1,51 @@
+.HeroSection {
+  padding: 60px;
+}
+
+.header {
+  /* background-color: red;
+  padding: 60px; */
+}
+
+.main {
+  display: flex;
+  justify-content: space-between;
+  /* align-items: center; */
+}
+
+.content {
+  width: 800px;
+}
+
+.imageSection {
+  width: 600px;
+  height: 300px;
+  box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
+  padding: 10px;
+}
+
+.image {
+  width: 60%;
+  height: 60%;
+  object-fit: contain;
+}
+
+.categoriesBtn {
+  display: flex;
+  gap: 5px;
+  flex-wrap: wrap;
+}
+.categoriesBtn button {
+  border: none;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 6px -1px,
+    rgba(0, 0, 0, 0.06) 0px 2px 4px -1px;
+  background-color: white;
+  padding: 10px 20px;
+  border-radius: 30px;
+  transition: 0.3s ease-in-out;
+}
+
+.categoriesBtn button:hover {
+  cursor: pointer;
+  transform: scale(1.3);
+}
