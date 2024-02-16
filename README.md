@@ -2,73 +2,33 @@
 Food Gallery is a beautiful image display application that allows users to have fun 😂: viewing food images. 
 users can view images by selecting an image category and clicking on the Change button to see other image suggestions.
 ### Visit FOOD GALLERY
-
-
+[click here to go to App](https://ethos-takehome-project.vercel.app/)
+---
+desktop view
 ![image](https://github.com/Gmarvis/ethos_takehome_project/assets/106551910/d62ef093-e9ef-4670-8d62-a384f7fae63a)
 ---
-## Available Scripts
+mobile view
 
-In the project directory, you can run:
+| hero section | image section |
+| ----------- | ----------- |
+![image](https://github.com/Gmarvis/ethos_takehome_project/assets/106551910/d05fddc1-608a-4981-a11d-b2d8bb746a23)
+|  | ![image](https://github.com/Gmarvis/ethos_takehome_project/assets/106551910/b2b5bae5-4756-41b4-967f-d8b3ebc844cb) |
 
-### `npm start`
-
-Runs the app in the development mode.\
+---
+### How to Run App Locally.
+1. Clone this repository
+2. Onpen it you local IDE
+3. run `npm install` to install all dependencies used in this project
+4. `npm start`
+>Runs the app in development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
 ### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+This is the App deployment link on vercel: [https://ethos-takehome-project.vercel.app/](https://ethos-takehome-project.vercel.app/)
 
 ### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## See My other interesting projects here [github.com/gmarvis](https://github.com/gmarvis)
+
+
