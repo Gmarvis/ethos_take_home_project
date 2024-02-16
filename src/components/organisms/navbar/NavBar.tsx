@@ -16,7 +16,9 @@ const NavBar = () => {
         </span>
       </div>
       <div className="nav-links">
-        <p>inspired by Ethos</p>
+        <p>
+          inspired by Ethos | build by <span>Sam Gmarvis</span>
+        </p>
       </div>
     </div>
   );
