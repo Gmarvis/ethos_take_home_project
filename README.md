@@ -1,4 +1,5 @@
-# FOOD GALLERY 🍕:
+# FOOD GALLERY 🍕
+### build with React.Js
 Food Gallery is a beautiful image display application that allows users to have fun 😂: viewing food images. 
 users can view images by selecting an image category and clicking on the Change button to see other image suggestions.
 ### Visit FOOD GALLERY
