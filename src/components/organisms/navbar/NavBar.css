@@ -5,6 +5,8 @@
   padding: 5px 60px;
   box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 6px -1px,
     rgba(0, 0, 0, 0.06) 0px 2px 4px -1px;
+  position: sticky;
+  /* width: 100%; */
 }
 
 .LOGO {
@@ -22,11 +24,21 @@
 }
 
 .bagde {
-  background-color: rgb(224, 134, 8);
+  background-color: #e08608;
   color: white;
   padding: 5px 2px;
 }
 
 .NavBar p {
   font-size: 12px;
+}
+
+.nav-links span {
+  color: #e08608;
+}
+
+@media screen and (max-width: 770px) {
+  .NavBar {
+    padding: 5px;
+  }
 }
