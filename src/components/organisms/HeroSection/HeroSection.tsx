@@ -3,6 +3,7 @@ import "./HeroSecction.css";
 import React, { useEffect, useState } from "react";
 // import { Categories } from "./data";
 
+// LIST OF CATEGORIES
 const Categories = [
   {
     name: "biryani",
@@ -41,6 +42,7 @@ const HeroSection = () => {
   const [image, setImage] = useState("");
   const [isLoading, setIsLOading] = useState(false);
 
+  // FETCH IMAGE BASED ON THEIR CATEGORIES AND UPDATE STATE
   const fetchImages = async () => {
     try {
       setIsLOading(true);
