@@ -1,7 +1,11 @@
-# Getting Started with Create React App
+# FOOD GALLERY 🍕:
+Food Gallery is a beautiful image display application that allows users to have fun 😂: viewing food images. 
+users can view images by selecting an image category and clicking on the Change button to see other image suggestions.
+### Visit FOOD GALLERY
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+![image](https://github.com/Gmarvis/ethos_takehome_project/assets/106551910/d62ef093-e9ef-4670-8d62-a384f7fae63a)
+---
 ## Available Scripts
 
 In the project directory, you can run:
